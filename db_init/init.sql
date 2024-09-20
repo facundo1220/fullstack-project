@@ -1,0 +1,4 @@
+CREATE ROLE facundodev WITH LOGIN PASSWORD '12345';
+ALTER ROLE facundodev CREATEDB;
+
+CREATE DATABASE fullstackdb OWNER facundodev;

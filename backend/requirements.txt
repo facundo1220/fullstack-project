@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-cors-headers
+coreapi
+django_redis
+djangorestframework_simplejwt
+django-rest-passwordreset
+psycopg2-binary
+setuptools
