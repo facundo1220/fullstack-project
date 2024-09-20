@@ -107,7 +107,6 @@ docker-compose logs -f
 
 ![alt text](<images/image7.png>)
 
-![alt text](<images/image8.png>)
 
 ![alt text](<images/image9.png>)
 
